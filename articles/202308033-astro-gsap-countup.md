@@ -64,6 +64,7 @@ https://larainfo.com/blogs/install-astro-react-tailwind-css
 ### Tailwind CSSをインストール
 
 :::details Tailwind CSSのインストール
+
 ```jsx
 pnpm astro add tailwind
 
