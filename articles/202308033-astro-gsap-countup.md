@@ -118,7 +118,7 @@ success  Added the following integration to your project:
 ```
 :::
 
-#### Reactをインストール
+### Reactをインストール
 カウントアップアニメーションでは使用しないのでスキップしていただいて大丈夫です。
 
 :::details Reactのインストール
